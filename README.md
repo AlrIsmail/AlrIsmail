@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">A computer science student studying in France</h3>
+<h3 align="center">A Computer Science student studying in France</h3>
 
-- 🔭 I’m currently working on **a school project : E-sport tournament management software**
+- 🔭 I’m currently working on **Academic project : E-sport tournament management software**
 
-- 🌱 I’m currently learning **C#, JavaScript, Unity and TensorFlow**
+- 🌱 I’m currently learning **ROS, C++, Unity and TensorFlow**
 
-- 👯 I’m looking to collaborate on **ai and robotics**
+- 👯 I’m looking to collaborate on **AI and robotics**
 
 - 💬 Ask me about **anything releated to tech and I would be more than happy to help**
 
