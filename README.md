@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A Computer Science student studying in France</h3>
 
-- 🔭 I’m currently working on **Academic project : E-sport tournament management software**
+- 🔭 I’m currently working on **Project : House Service Robot and E-sport tournament management software**
 
 - 🌱 I’m currently learning **ROS, C++, Unity and TensorFlow**
 
