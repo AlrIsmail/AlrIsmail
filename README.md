@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A Computer Science student studying in France</h3>
 
-- 🔭 I’m currently working on **Project : E-sport tournament management software**
+- 🔭 I’m currently working on **Project : Instagram lite clone**
 
-- 🌱 I’m currently learning **ROS, C++, Unity and TensorFlow**
+- 🌱 I’m currently learning **OpenCV, Swift, React Native**
 
 - 👯 I’m looking to collaborate on **AI and robotics**
 
