@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">A Computer Science Student at Université Paul Sabatier</h3>
+<h3 align="center">A Computer Science Student at Université Paul Sabatier and a intern at Neusta France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alrismail&label=Profile%20views&color=0e75b6&style=flat" alt="alrismail" /> </p>
 
-- 🔭 I’m currently working on **a Mobile App (React-Naitve)**
+- 🔭 I’m currently working on **an App for the mobile control of a Robot**
 
-- 🌱 I’m currently learning **Robotics and VR**
+- 🌱 I’m currently learning **Robotics, AI and VR**
 
 - ⚡ Fun fact **I'm a tech enthusiast**
 
