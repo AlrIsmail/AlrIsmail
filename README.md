@@ -93,7 +93,7 @@
     </a>
 </p>
 
-<p align="left">
+<p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlrIsmail&theme=tokyonight&exclude=CSS,Makefile" alt="Most Commit Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlrIsmail&theme=tokyonight&exclude=Ada,Makefile" alt="Repos Per Language" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlrIsmail&theme=tokyonight" alt="GitHub Streak" />
