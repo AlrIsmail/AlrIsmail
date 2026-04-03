@@ -94,6 +94,5 @@
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlrIsmail&theme=tokyonight&exclude=CSS,Makefile" alt="Most Commit Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlrIsmail&theme=tokyonight&exclude=Ada,Makefile" alt="Repos Per Language" />
 </p>
