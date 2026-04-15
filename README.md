@@ -10,15 +10,6 @@
 - 🤝 I’m looking to collaborate on **Open Source Projects**.
 - 📖 Fun fact: **I write novels in my free time.**
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alrismail&show_icons=true&theme=tokyonight&hide_title=true&height=170" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrismail&layout=compact&theme=tokyonight&hide=ada,jupyter%20notebook,makefile,cmake&height=170" height="170" />
-</p>
-
 ### 🔗 Connect with me:
 - **LinkedIn:** [in/alrismail](https://linkedin.com/in/alrismail)
 - **Twitter/X:** [@alrismail](https://twitter.com/alrismail)
